@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VimosApp</string>
+    <string name="to_products">Каталог товаров</string>
+    <string name="price">%1$d ,00 P</string>
+    <string name="price_text">Цена за %1$s :</string>
+</resources>
